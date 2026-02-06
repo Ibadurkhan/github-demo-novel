@@ -12,3 +12,5 @@ commit should stick to one thing at a time
 
 
 Hope our characters are buil  well people enjoys it
+
+Now we are on amending the commits
