@@ -8,3 +8,7 @@ University graduate from the Midwest.
 Atomic - This sounds weird but it is important
 We have to make commit as atomic as possible. It means
 commit should stick to one thing at a time
+
+
+
+Hope our characters are buil  well people enjoys it
